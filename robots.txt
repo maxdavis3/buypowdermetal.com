@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buypowdermetal.com/sitemap.xml
