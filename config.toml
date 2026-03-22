@@ -1,0 +1,183 @@
+baseURL = "https://buypowdermetal.com/"
+languageCode = "en-us"
+title = "Buy Powder Metal"
+theme = "printwire"
+
+[params]
+tagline       = "Industrial powder metal for additive manufacturing, MIM, and sintered components — certified alloys in stock for same-week dispatch."
+description   = "Buy Powder Metal provides industrial powder metal sourcing for DMLS, MIM, and sintered components — titanium, stainless steel, aluminium, and nickel superalloys with full lot certification."
+keywords      = "buy powder metal, powder metallurgy supply, AM feedstock, DMLS powder, MIM grade powder, industrial metal powder"
+logoEmoji     = "⚗️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#94a3b8"
+colorPrimaryDark  = "#7a8fa5"
+colorPrimaryLight = "#b8c7d9"
+colorBgDark       = "#06070d"
+colorBgSection    = "#09090f"
+colorBgCard       = "#0e0f18"
+colorBgCardHover  = "#121320"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Space+Grotesk"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+
+heroEyebrow  = "Industrial Metal Powder"
+heroTitle    = "Buy Powder <em>Metal</em>"
+heroSubtitle = "Industrial powder metal for additive manufacturing, MIM, and sintered components — certified alloys in stock for same-week dispatch."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+overviewTitle   = "Powder Metal for Every Process"
+overviewText    = "AM-grade 15–45µm for DMLS. MIM-grade sub-22µm. PM-grade coarse powder for press-and-sinter. All chemically certified and ready for same-week dispatch."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Buy Powder Metal Services"
+servicesSubtitle = "Industrial powder metal for additive manufacturing, MIM, and sintered components — certified alloys in stock for same-week dispatch."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Industrial powder metal for additive manufacturing, MIM, and sintered components — certified alloys in stock for same-week dispatch."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 50
+suffix = "+"
+label  = "Alloys in Stock"
+
+[[params.stats]]
+count  = 5
+suffix = "days"
+label  = "Dispatch Lead Time"
+
+[[params.stats]]
+count  = 1
+suffix = "kg"
+label  = "Minimum Order"
+
+[[params.stats]]
+count  = 99.9
+suffix = "%"
+label  = "Purity (Titanium)"
+
+
+[[params.applications]]
+title       = "DMLS & SLM"
+description = "15–45µm LPBF-grade powder for laser powder bed fusion systems."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Metal Injection Moulding"
+description = "Sub-22µm powder for MIM processing of complex net-shape components."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Sintered Components"
+description = "Coarse iron and steel powder for conventional press-and-sinter part production."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Research & Development"
+description = "Small quantities of speciality and experimental alloys for research applications."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "DMLS-Grade Powder"
+description = "15–45µm plasma-atomised for Ti6Al4V, 316L, AlSi10Mg, IN718 — certified chemistry and PSD."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "MIM-Grade Powder"
+description = "Sub-22µm for metal injection moulding — high-flowability binders and feedstock compounding available."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Sintering Powder"
+description = "Coarse iron, steel, and bronze powder for conventional powder metallurgy structural parts."
+
+[[params.servicesPreview]]
+icon        = "🧪"
+title       = "Powder Testing"
+description = "PSD analysis, Hall flow, SEM imaging, and ICP chemistry reporting for incoming powder qualification."
+
+
+[[params.services]]
+name        = "DMLS-Grade Powder"
+description        = "15–45µm plasma-atomised for Ti6Al4V, 316L, AlSi10Mg, IN718 — certified chemistry and PSD."
+icon        = "⚗️"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "MIM-Grade Powder"
+description        = "Sub-22µm for metal injection moulding — high-flowability binders and feedstock compounding available."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Sintering Powder"
+description        = "Coarse iron, steel, and bronze powder for conventional powder metallurgy structural parts."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Powder Testing"
+description        = "PSD analysis, Hall flow, SEM imaging, and ICP chemistry reporting for incoming powder qualification."
+icon        = "🧪"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprinttitanium.com"
+url         = "https://3dprinttitanium.com"
+description = "Titanium 3D printing"
+
+[[params.clusterLinks]]
+name        = "steel3dprint.com"
+url         = "https://steel3dprint.com"
+description = "Steel 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
