@@ -1,0 +1,20 @@
+---
+title: "Buy Powder Metal Services"
+type: "page"
+layout: "services"
+description: "Professional powder metal sourcing for manufacturing services — Industrial powder metal for additive manufacturing, MIM, and sintered components — certified alloys in stock for same-week dispatch."
+heroImage: "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+process:
+  - step: "01"
+    title: "Consultation"
+    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
+  - step: "02"
+    title: "Design Review"
+    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
+  - step: "03"
+    title: "Production"
+    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
+  - step: "04"
+    title: "Delivery"
+    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+---
