@@ -22,7 +22,7 @@ colorBgCardHover  = "#121320"
 fontPrimary   = "Orbitron"
 fontSecondary = "Space+Grotesk"
 
-newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+newsFallbackImages = ["/images/fallback1.png", "/images/fallback2.png", "/images/fallback3.png"]
 
 heroEyebrow  = "Industrial Metal Powder"
 heroTitle    = "Buy Powder <em>Metal</em>"
@@ -31,7 +31,7 @@ heroCta1Text = "Explore Services"
 heroCta1URL  = "/services/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+heroImage    = "/images/hero.png"
 
 overviewTitle   = "Powder Metal for Every Process"
 overviewText    = "AM-grade 15–45µm for DMLS. MIM-grade sub-22µm. PM-grade coarse powder for press-and-sinter. All chemically certified and ready for same-week dispatch."
@@ -73,22 +73,22 @@ label  = "Purity (Titanium)"
 [[params.applications]]
 title       = "DMLS & SLM"
 description = "15–45µm LPBF-grade powder for laser powder bed fusion systems."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-aerospace.png"
 
 [[params.applications]]
 title       = "Metal Injection Moulding"
 description = "Sub-22µm powder for MIM processing of complex net-shape components."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-medical.png"
 
 [[params.applications]]
 title       = "Sintered Components"
 description = "Coarse iron and steel powder for conventional press-and-sinter part production."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-industrial.png"
 
 [[params.applications]]
 title       = "Research & Development"
 description = "Small quantities of speciality and experimental alloys for research applications."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-energy.png"
 
 
 [[params.servicesPreview]]
